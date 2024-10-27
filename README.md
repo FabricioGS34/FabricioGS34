@@ -9,6 +9,13 @@ Me chamo Fabricio Gonçalves programador front -end
 <br>
 <br>
 <br>
+<H2> Minhas Redes Sociais</H2>
+<br>
+<a href="https://www.facebook.com/profile.php?id=61554344159187&locale=pt_BR">
+<img src="logo_faceboock.png" alt="Faceboock"/>
+<br>
+<br>
+
 
 [![Fabricio Gonçalves stats](https://github-readme-stats.vercel.app/api?username=FabricioGS34)](https://github.com/anuraghazra/github-readme-stats)
 
