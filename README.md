@@ -9,13 +9,16 @@ Me chamo Fabricio Gonçalves programador front -end
 <br>
 <br>
 <br>
-<H2> Minhas Redes Sociais</H2>
-<br>
-<a href="https://www.facebook.com/profile.php?id=61554344159187&locale=pt_BR">
-<img src="logo_faceboock.png" alt="Faceboock"/>
-<br>
-<br>
 
+<H2> Minhas Redes Sociais</H2>
+<a href="https://www.facebook.com/profile.php?id=61554344159187&locale=pt_BR">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="faceboock-logo"/>
+
+  <a href="https://www.instagram.com/fabricio33gs/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagran-logo"/>
+
+<br>
+<br>
 
 [![Fabricio Gonçalves stats](https://github-readme-stats.vercel.app/api?username=FabricioGS34)](https://github.com/anuraghazra/github-readme-stats)
 
